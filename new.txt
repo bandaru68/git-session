@@ -2,3 +2,5 @@ new branch changes
 editing
 this is done in master
 this is done in new branch
+changes in the master
+changed

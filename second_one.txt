@@ -2,3 +2,8 @@ this is the second file for git
 this is am editing usig vi
 adding a line
 changes in child branch
+
+
+
+
+changes in new branch

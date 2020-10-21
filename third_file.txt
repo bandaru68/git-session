@@ -9,3 +9,6 @@ stash command usage
 
 
 changes in master 
+
+
+changes in branchone and the changes in master are not reflected here

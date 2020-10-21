@@ -6,5 +6,4 @@ changes in the master
 changed
 
 
-second changes
 stash changes
